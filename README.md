@@ -18,6 +18,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0162-find-peak-element](https://github.com/Satyam0010/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyam0010/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -70,6 +71,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0029-divide-two-integers](https://github.com/Satyam0010/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/Satyam0010/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/Satyam0010/DSA/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 ## Two Pointers
@@ -80,6 +82,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0088-merge-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Satyam0010/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Satyam0010/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
 ## Dynamic Programming
@@ -108,6 +111,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0069-sqrtx](https://github.com/Satyam0010/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Satyam0010/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyam0010/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
