@@ -10,6 +10,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam0010/DSA/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Satyam0010/DSA/tree/main/0027-remove-element/) | Easy |
+| [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Satyam0010/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/Satyam0010/DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/Satyam0010/DSA/tree/main/0507-perfect-number/) | Easy |
