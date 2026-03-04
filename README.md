@@ -9,6 +9,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam0010/DSA/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Satyam0010/DSA/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
@@ -40,6 +41,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Satyam0010/DSA/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
 ## Dynamic Programming
