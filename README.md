@@ -17,6 +17,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Satyam0010/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -90,6 +91,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0069-sqrtx](https://github.com/Satyam0010/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Satyam0010/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
