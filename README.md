@@ -30,6 +30,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Satyam0010/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/Satyam0010/DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/Satyam0010/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -97,4 +98,12 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Satyam0010/DSA/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Satyam0010/DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
