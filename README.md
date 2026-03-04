@@ -17,6 +17,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Satyam0010/DSA/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Satyam0010/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Satyam0010/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
@@ -84,6 +85,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Satyam0010/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/Satyam0010/DSA/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Satyam0010/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
