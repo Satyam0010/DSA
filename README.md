@@ -16,6 +16,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0507-perfect-number](https://github.com/Satyam0010/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0866-prime-palindrome](https://github.com/Satyam0010/DSA/tree/main/0866-prime-palindrome/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/Satyam0010/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Satyam0010/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Satyam0010/DSA/tree/main/2469-convert-the-temperature/) | Easy |
