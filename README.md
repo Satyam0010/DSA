@@ -56,6 +56,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2235-add-two-integers](https://github.com/Satyam0010/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Satyam0010/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Satyam0010/DSA/tree/main/2469-convert-the-temperature/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/Satyam0010/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Satyam0010/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [3099-harshad-number](https://github.com/Satyam0010/DSA/tree/main/3099-harshad-number/) | Easy |
 ## Bit Manipulation
