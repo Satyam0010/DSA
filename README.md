@@ -31,6 +31,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Satyam0010/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Satyam0010/DSA/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Satyam0010/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
@@ -40,6 +41,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Satyam0010/DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -57,6 +59,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Satyam0010/DSA/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
