@@ -16,6 +16,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Satyam0010/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/Satyam0010/DSA/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Satyam0010/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Satyam0010/DSA/tree/main/0137-single-number-ii/) | Medium |
@@ -93,6 +94,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Satyam0010/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/Satyam0010/DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Satyam0010/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Satyam0010/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
@@ -242,6 +244,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam0010/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0078-subsets](https://github.com/Satyam0010/DSA/tree/main/0078-subsets/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
