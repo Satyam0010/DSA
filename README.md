@@ -85,6 +85,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0866-prime-palindrome](https://github.com/Satyam0010/DSA/tree/main/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/Satyam0010/DSA/tree/main/0877-stone-game/) | Medium |
 | [0878-nth-magical-number](https://github.com/Satyam0010/DSA/tree/main/0878-nth-magical-number/) | Hard |
+| [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1952-three-divisors](https://github.com/Satyam0010/DSA/tree/main/1952-three-divisors/) | Easy |
 | [2235-add-two-integers](https://github.com/Satyam0010/DSA/tree/main/2235-add-two-integers/) | Easy |
@@ -187,6 +188,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0412-fizz-buzz](https://github.com/Satyam0010/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Satyam0010/DSA/tree/main/0415-add-strings/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
+| [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
