@@ -136,6 +136,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0344-reverse-string](https://github.com/Satyam0010/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Satyam0010/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -291,4 +292,5 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Satyam0010/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Satyam0010/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Satyam0010/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Satyam0010/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
