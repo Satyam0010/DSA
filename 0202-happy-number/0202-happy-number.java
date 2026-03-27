@@ -1,18 +1,29 @@
 class Solution {
     public boolean isHappy(int n) {
-        int count = 0;
-        
-        while (n != 1 && count < 100) { 
-            int sum = 0;
-            while (n > 0) {
-                int d = n % 10;
-                sum += d * d;
-                n /= 10;
-            }
-            n = sum;
-            count++;
+        int slow = n;
+        int fast = n;
+
+        do{
+            slow = find(slow);
+            fast = find(find(fast));
+        }while(slow != fast);
+
+        if(slow == 1){
+            return true;
         }
-        
-        return n == 1;
+
+        return false;
+    }
+
+
+    private int find(int num){
+        int ans = 0;
+        while(num > 0){
+            int d = num%10;
+            ans = ans+(d*d);
+            num /= 10;
+        }
+
+        return ans;
     }
 }
