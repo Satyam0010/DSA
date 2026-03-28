@@ -15,6 +15,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Satyam0010/DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Satyam0010/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Satyam0010/DSA/tree/main/0078-subsets/) | Medium |
@@ -143,6 +144,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -209,6 +211,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Satyam0010/DSA/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
