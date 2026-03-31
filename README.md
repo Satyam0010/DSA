@@ -43,6 +43,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyam0010/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2544-alternating-digit-sum](https://github.com/Satyam0010/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Satyam0010/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [3099-harshad-number](https://github.com/Satyam0010/DSA/tree/main/3099-harshad-number/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyam0010/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
