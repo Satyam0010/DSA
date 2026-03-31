@@ -209,6 +209,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0415-add-strings](https://github.com/Satyam0010/DSA/tree/main/0415-add-strings/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Satyam0010/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
