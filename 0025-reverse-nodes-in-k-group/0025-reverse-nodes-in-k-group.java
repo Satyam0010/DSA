@@ -16,17 +16,25 @@ class Solution {
         ListNode current = head;
         ListNode prev = null;
         while(true){
+
+
              ListNode temp = current;
             int count = 0;
             while (temp != null && count < k) {
                 temp = temp.next;
                 count++;
             }
+
+
             if (count < k) break; 
+
+
             ListNode last = prev;
             ListNode newend = current;
-            ListNode next = current.next;
+
+
             for(int i = 0; current != null && i < k; i++){
+               ListNode next = current.next;
                current.next = prev;
                prev = current;
                current = next;
