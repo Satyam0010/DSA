@@ -71,6 +71,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Satyam0010/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/Satyam0010/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
