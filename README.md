@@ -235,6 +235,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0771-jewels-and-stones](https://github.com/Satyam0010/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satyam0010/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Satyam0010/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Satyam0010/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -266,6 +267,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Satyam0010/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
