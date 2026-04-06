@@ -27,6 +27,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0162-find-peak-element](https://github.com/Satyam0010/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Satyam0010/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -196,6 +197,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0069-sqrtx](https://github.com/Satyam0010/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Satyam0010/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Satyam0010/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Satyam0010/DSA/tree/main/0367-valid-perfect-square/) | Easy |
@@ -245,6 +247,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Satyam0010/DSA/tree/main/0148-sort-list/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -302,6 +305,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Satyam0010/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Interactive
