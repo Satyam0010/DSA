@@ -232,6 +232,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Satyam0010/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam0010/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/Satyam0010/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Satyam0010/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
@@ -365,6 +366,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Satyam0010/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Satyam0010/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/Satyam0010/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Satyam0010/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
