@@ -84,6 +84,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Satyam0010/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Satyam0010/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
@@ -167,6 +168,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -189,6 +191,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
