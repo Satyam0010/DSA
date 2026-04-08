@@ -167,6 +167,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Satyam0010/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -372,6 +373,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0206-reverse-linked-list](https://github.com/Satyam0010/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Satyam0010/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Satyam0010/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
