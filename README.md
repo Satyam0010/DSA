@@ -83,6 +83,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Satyam0010/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Satyam0010/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Satyam0010/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Satyam0010/DSA/tree/main/0013-roman-to-integer/) | Easy |
@@ -185,6 +186,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Satyam0010/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Satyam0010/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Satyam0010/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/Satyam0010/DSA/tree/main/0050-powx-n/) | Medium |
@@ -370,6 +372,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Satyam0010/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Satyam0010/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Satyam0010/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Satyam0010/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
