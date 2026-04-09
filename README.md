@@ -104,6 +104,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Satyam0010/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Satyam0010/DSA/tree/main/0342-power-of-four/) | Easy |
+| [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Satyam0010/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Satyam0010/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0400-nth-digit](https://github.com/Satyam0010/DSA/tree/main/0400-nth-digit/) | Medium |
@@ -180,6 +181,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Satyam0010/DSA/tree/main/0877-stone-game/) | Medium |
@@ -359,6 +361,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0051-n-queens](https://github.com/Satyam0010/DSA/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Satyam0010/DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Satyam0010/DSA/tree/main/0078-subsets/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
