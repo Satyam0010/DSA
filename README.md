@@ -102,6 +102,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0263-ugly-number](https://github.com/Satyam0010/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/Satyam0010/DSA/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Satyam0010/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Satyam0010/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
@@ -366,10 +367,12 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Satyam0010/DSA/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/Satyam0010/DSA/tree/main/0877-stone-game/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Satyam0010/DSA/tree/main/0292-nim-game/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
