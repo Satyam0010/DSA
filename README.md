@@ -87,6 +87,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Satyam0010/DSA/tree/main/3668-restore-finishing-order/) | Easy |
+| [3790-smallest-all-ones-multiple](https://github.com/Satyam0010/DSA/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyam0010/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Satyam0010/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3790-smallest-all-ones-multiple](https://github.com/Satyam0010/DSA/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
