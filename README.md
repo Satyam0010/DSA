@@ -137,6 +137,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Satyam0010/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Satyam0010/DSA/tree/main/2469-convert-the-temperature/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Satyam0010/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Satyam0010/DSA/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Satyam0010/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Satyam0010/DSA/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
