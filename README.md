@@ -130,6 +130,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Satyam0010/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1952-three-divisors](https://github.com/Satyam0010/DSA/tree/main/1952-three-divisors/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Satyam0010/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -280,6 +281,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0771-jewels-and-stones](https://github.com/Satyam0010/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam0010/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Satyam0010/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satyam0010/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Satyam0010/DSA/tree/main/2810-faulty-keyboard/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Satyam0010/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
