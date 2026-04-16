@@ -108,6 +108,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0258-add-digits](https://github.com/Satyam0010/DSA/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Satyam0010/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
@@ -197,6 +198,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -213,6 +215,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0143-reorder-list](https://github.com/Satyam0010/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Satyam0010/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Satyam0010/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Satyam0010/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Satyam0010/DSA/tree/main/0342-power-of-four/) | Easy |
