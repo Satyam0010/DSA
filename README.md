@@ -159,6 +159,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Satyam0010/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyam0010/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satyam0010/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Satyam0010/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3790-smallest-all-ones-multiple](https://github.com/Satyam0010/DSA/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 ## Bit Manipulation
@@ -306,6 +307,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2810-faulty-keyboard](https://github.com/Satyam0010/DSA/tree/main/2810-faulty-keyboard/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Satyam0010/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Satyam0010/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +399,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
