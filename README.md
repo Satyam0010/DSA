@@ -55,6 +55,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Satyam0010/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1390-four-divisors](https://github.com/Satyam0010/DSA/tree/main/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam0010/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -136,6 +137,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Satyam0010/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Satyam0010/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1390-four-divisors](https://github.com/Satyam0010/DSA/tree/main/1390-four-divisors/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Satyam0010/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
