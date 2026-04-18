@@ -30,6 +30,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0088-merge-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Satyam0010/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Satyam0010/DSA/tree/main/0137-single-number-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Satyam0010/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyam0010/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Satyam0010/DSA/tree/main/0162-find-peak-element/) | Medium |
@@ -218,6 +219,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0042-trapping-rain-water](https://github.com/Satyam0010/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Satyam0010/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
