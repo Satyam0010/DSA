@@ -70,6 +70,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1848-minimum-distance-to-the-target-element](https://github.com/Satyam0010/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Satyam0010/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satyam0010/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam0010/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/Satyam0010/DSA/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
@@ -415,6 +416,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam0010/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam0010/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
