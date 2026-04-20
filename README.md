@@ -53,6 +53,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0560-subarray-sum-equals-k](https://github.com/Satyam0010/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/Satyam0010/DSA/tree/main/0704-binary-search/) | Easy |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Satyam0010/DSA/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyam0010/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
