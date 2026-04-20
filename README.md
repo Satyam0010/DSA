@@ -136,6 +136,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0412-fizz-buzz](https://github.com/Satyam0010/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Satyam0010/DSA/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Satyam0010/DSA/tree/main/0441-arranging-coins/) | Easy |
+| [0504-base-7](https://github.com/Satyam0010/DSA/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Satyam0010/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Satyam0010/DSA/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -313,6 +314,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0412-fizz-buzz](https://github.com/Satyam0010/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Satyam0010/DSA/tree/main/0415-add-strings/) | Easy |
 | [0500-keyboard-row](https://github.com/Satyam0010/DSA/tree/main/0500-keyboard-row/) | Easy |
+| [0504-base-7](https://github.com/Satyam0010/DSA/tree/main/0504-base-7/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Satyam0010/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Satyam0010/DSA/tree/main/0771-jewels-and-stones/) | Easy |
