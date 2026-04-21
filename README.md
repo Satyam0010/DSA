@@ -68,6 +68,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Satyam0010/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam0010/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Satyam0010/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satyam0010/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam0010/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -222,6 +223,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Satyam0010/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam0010/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Dynamic Programming
@@ -283,6 +285,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyam0010/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0878-nth-magical-number](https://github.com/Satyam0010/DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [1095-find-in-mountain-array](https://github.com/Satyam0010/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam0010/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
