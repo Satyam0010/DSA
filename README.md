@@ -10,6 +10,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam0010/DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyam0010/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/Satyam0010/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Satyam0010/DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Satyam0010/DSA/tree/main/0031-next-permutation/) | Medium |
@@ -200,6 +201,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Satyam0010/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satyam0010/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Satyam0010/DSA/tree/main/0027-remove-element/) | Easy |
@@ -419,6 +421,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Satyam0010/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam0010/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
