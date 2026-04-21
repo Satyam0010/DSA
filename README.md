@@ -82,6 +82,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam0010/DSA/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/Satyam0010/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Satyam0010/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam0010/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/Satyam0010/DSA/tree/main/0041-first-missing-positive/) | Hard |
@@ -109,6 +110,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0002-add-two-numbers](https://github.com/Satyam0010/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Satyam0010/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Satyam0010/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Satyam0010/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Satyam0010/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Satyam0010/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/Satyam0010/DSA/tree/main/0043-multiply-strings/) | Medium |
@@ -301,6 +303,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Satyam0010/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Satyam0010/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam0010/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Satyam0010/DSA/tree/main/0020-valid-parentheses/) | Easy |
