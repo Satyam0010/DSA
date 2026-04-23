@@ -39,6 +39,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/Satyam0010/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Satyam0010/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Satyam0010/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -297,6 +298,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0148-sort-list](https://github.com/Satyam0010/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Satyam0010/DSA/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Satyam0010/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Satyam0010/DSA/tree/main/0414-third-maximum-number/) | Easy |
@@ -348,11 +350,13 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0169-majority-element](https://github.com/Satyam0010/DSA/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Satyam0010/DSA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Satyam0010/DSA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
@@ -511,4 +515,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Satyam0010/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Satyam0010/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
