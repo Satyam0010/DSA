@@ -25,6 +25,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0042-trapping-rain-water](https://github.com/Satyam0010/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/Satyam0010/DSA/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Satyam0010/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Satyam0010/DSA/tree/main/0075-sort-colors/) | Medium |
@@ -244,6 +245,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Satyam0010/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Satyam0010/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
@@ -442,6 +444,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Satyam0010/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
