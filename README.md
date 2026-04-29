@@ -238,6 +238,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0283-move-zeroes](https://github.com/Satyam0010/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Satyam0010/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Satyam0010/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyam0010/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
@@ -346,6 +347,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Satyam0010/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Satyam0010/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Satyam0010/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/Satyam0010/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Satyam0010/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Satyam0010/DSA/tree/main/0412-fizz-buzz/) | Easy |
