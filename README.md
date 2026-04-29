@@ -229,6 +229,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0142-linked-list-cycle-ii](https://github.com/Satyam0010/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Satyam0010/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Satyam0010/DSA/tree/main/0148-sort-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Satyam0010/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satyam0010/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Satyam0010/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -341,6 +342,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0058-length-of-last-word](https://github.com/Satyam0010/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Satyam0010/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Satyam0010/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Satyam0010/DSA/tree/main/0344-reverse-string/) | Easy |
