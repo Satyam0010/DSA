@@ -429,6 +429,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satyam0010/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satyam0010/DSA/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Satyam0010/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Satyam0010/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2810-faulty-keyboard](https://github.com/Satyam0010/DSA/tree/main/2810-faulty-keyboard/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Satyam0010/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Number Theory
@@ -531,6 +532,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0876-middle-of-the-linked-list](https://github.com/Satyam0010/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Satyam0010/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Satyam0010/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
