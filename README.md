@@ -91,6 +91,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam0010/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/Satyam0010/DSA/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Satyam0010/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Satyam0010/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -444,6 +445,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2169-count-operations-to-obtain-zero](https://github.com/Satyam0010/DSA/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Satyam0010/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Satyam0010/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Satyam0010/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Satyam0010/DSA/tree/main/2810-faulty-keyboard/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Satyam0010/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Number Theory
