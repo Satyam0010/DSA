@@ -620,6 +620,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0450-delete-node-in-a-bst](https://github.com/Satyam0010/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -644,6 +645,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -669,6 +671,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0450-delete-node-in-a-bst](https://github.com/Satyam0010/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
@@ -683,6 +686,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0199-binary-tree-right-side-view](https://github.com/Satyam0010/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
