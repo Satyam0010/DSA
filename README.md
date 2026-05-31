@@ -34,6 +34,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0084-largest-rectangle-in-histogram](https://github.com/Satyam0010/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Satyam0010/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam0010/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/Satyam0010/DSA/tree/main/0134-gas-station/) | Medium |
@@ -107,6 +108,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0013-roman-to-integer](https://github.com/Satyam0010/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam0010/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/Satyam0010/DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Satyam0010/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Satyam0010/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Satyam0010/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -395,6 +397,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyam0010/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/Satyam0010/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Satyam0010/DSA/tree/main/0169-majority-element/) | Easy |
@@ -608,6 +611,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyam0010/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam0010/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Satyam0010/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -665,6 +669,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyam0010/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam0010/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Satyam0010/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
