@@ -685,6 +685,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0841-keys-and-rooms](https://github.com/Satyam0010/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -738,6 +739,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0841-keys-and-rooms](https://github.com/Satyam0010/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
@@ -762,5 +764,6 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/Satyam0010/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
