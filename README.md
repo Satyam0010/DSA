@@ -26,6 +26,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0045-jump-game-ii](https://github.com/Satyam0010/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0051-n-queens](https://github.com/Satyam0010/DSA/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Satyam0010/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Satyam0010/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -464,6 +465,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Satyam0010/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/Satyam0010/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Satyam0010/DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Satyam0010/DSA/tree/main/0412-fizz-buzz/) | Easy |
@@ -499,6 +501,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Satyam0010/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Satyam0010/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
