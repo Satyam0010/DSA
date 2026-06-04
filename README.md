@@ -114,6 +114,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3467-transform-array-by-parity](https://github.com/Satyam0010/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyam0010/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Satyam0010/DSA/tree/main/3668-restore-finishing-order/) | Easy |
+| [3905-multi-source-flood-fill](https://github.com/Satyam0010/DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -516,6 +517,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [3905-multi-source-flood-fill](https://github.com/Satyam0010/DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -771,6 +773,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0994-rotting-oranges](https://github.com/Satyam0010/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3905-multi-source-flood-fill](https://github.com/Satyam0010/DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
