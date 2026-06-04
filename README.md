@@ -68,6 +68,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
 | [0500-keyboard-row](https://github.com/Satyam0010/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam0010/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Satyam0010/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Satyam0010/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam0010/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
@@ -467,6 +468,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0258-add-digits](https://github.com/Satyam0010/DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Satyam0010/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Satyam0010/DSA/tree/main/0415-add-strings/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Satyam0010/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Satyam0010/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -500,6 +502,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0074-search-a-2d-matrix](https://github.com/Satyam0010/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Satyam0010/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0994-rotting-oranges](https://github.com/Satyam0010/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
