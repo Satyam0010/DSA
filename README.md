@@ -92,6 +92,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0994-rotting-oranges](https://github.com/Satyam0010/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Satyam0010/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Satyam0010/DSA/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1390-four-divisors](https://github.com/Satyam0010/DSA/tree/main/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
