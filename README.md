@@ -142,6 +142,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0500-keyboard-row](https://github.com/Satyam0010/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam0010/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Satyam0010/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0575-distribute-candies](https://github.com/Satyam0010/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Satyam0010/DSA/tree/main/0771-jewels-and-stones/) | Easy |
@@ -278,6 +279,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0345-reverse-vowels-of-a-string](https://github.com/Satyam0010/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyam0010/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Satyam0010/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Satyam0010/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -408,6 +410,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0500-keyboard-row](https://github.com/Satyam0010/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/Satyam0010/DSA/tree/main/0504-base-7/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyam0010/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Satyam0010/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Satyam0010/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Satyam0010/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
@@ -804,6 +807,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/Satyam0010/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam0010/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
