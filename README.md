@@ -278,6 +278,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Satyam0010/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Satyam0010/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Satyam0010/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyam0010/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Satyam0010/DSA/tree/main/0567-permutation-in-string/) | Medium |
@@ -302,6 +303,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0392-is-subsequence](https://github.com/Satyam0010/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -404,6 +406,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0345-reverse-vowels-of-a-string](https://github.com/Satyam0010/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Satyam0010/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Satyam0010/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0402-remove-k-digits](https://github.com/Satyam0010/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Satyam0010/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Satyam0010/DSA/tree/main/0412-fizz-buzz/) | Easy |
