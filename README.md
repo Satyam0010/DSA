@@ -292,6 +292,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Satyam0010/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Satyam0010/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Satyam0010/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
@@ -394,6 +395,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0014-longest-common-prefix](https://github.com/Satyam0010/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam0010/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Satyam0010/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Satyam0010/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Satyam0010/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Satyam0010/DSA/tree/main/0058-length-of-last-word/) | Easy |
@@ -573,6 +575,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam0010/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Satyam0010/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Satyam0010/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Satyam0010/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Satyam0010/DSA/tree/main/0051-n-queens/) | Hard |
