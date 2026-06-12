@@ -25,6 +25,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0041-first-missing-positive](https://github.com/Satyam0010/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Satyam0010/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Satyam0010/DSA/tree/main/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Satyam0010/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Satyam0010/DSA/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Satyam0010/DSA/tree/main/0054-spiral-matrix/) | Medium |
@@ -126,6 +127,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0013-roman-to-integer](https://github.com/Satyam0010/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam0010/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/Satyam0010/DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/Satyam0010/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Satyam0010/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Satyam0010/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -366,6 +368,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Satyam0010/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Satyam0010/DSA/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Satyam0010/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Satyam0010/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Satyam0010/DSA/tree/main/0148-sort-list/) | Medium |
@@ -398,6 +401,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0022-generate-parentheses](https://github.com/Satyam0010/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Satyam0010/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/Satyam0010/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Satyam0010/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Satyam0010/DSA/tree/main/0125-valid-palindrome/) | Easy |
