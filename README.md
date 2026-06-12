@@ -254,6 +254,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satyam0010/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Satyam0010/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Satyam0010/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Satyam0010/DSA/tree/main/0018-4sum/) | Medium |
@@ -294,6 +295,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satyam0010/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Satyam0010/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Satyam0010/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Satyam0010/DSA/tree/main/0045-jump-game-ii/) | Medium |
@@ -393,6 +395,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satyam0010/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Satyam0010/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Satyam0010/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Satyam0010/DSA/tree/main/0014-longest-common-prefix/) | Easy |
