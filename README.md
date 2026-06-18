@@ -44,6 +44,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0134-gas-station](https://github.com/Satyam0010/DSA/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Satyam0010/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Satyam0010/DSA/tree/main/0137-single-number-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Satyam0010/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Satyam0010/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyam0010/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -173,6 +174,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Satyam0010/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Satyam0010/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Satyam0010/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Satyam0010/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
@@ -650,6 +652,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0143-reorder-list](https://github.com/Satyam0010/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Satyam0010/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Satyam0010/DSA/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Satyam0010/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Satyam0010/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
