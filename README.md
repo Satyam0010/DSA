@@ -673,6 +673,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Satyam0010/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Satyam0010/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -680,6 +681,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0155-min-stack](https://github.com/Satyam0010/DSA/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Satyam0010/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0933-number-of-recent-calls](https://github.com/Satyam0010/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -863,4 +865,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyam0010/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Satyam0010/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
