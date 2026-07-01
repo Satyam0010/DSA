@@ -140,6 +140,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0160-intersection-of-two-linked-lists](https://github.com/Satyam0010/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Satyam0010/DSA/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyam0010/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Satyam0010/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Satyam0010/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
@@ -423,6 +424,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0139-word-break](https://github.com/Satyam0010/DSA/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyam0010/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Satyam0010/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/Satyam0010/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -690,6 +692,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Satyam0010/DSA/tree/main/0155-min-stack/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyam0010/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Satyam0010/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/Satyam0010/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -878,6 +881,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyam0010/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/Satyam0010/DSA/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyam0010/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
