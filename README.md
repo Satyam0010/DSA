@@ -441,6 +441,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0459-repeated-substring-pattern](https://github.com/Satyam0010/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/Satyam0010/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/Satyam0010/DSA/tree/main/0504-base-7/) | Easy |
+| [0520-detect-capital](https://github.com/Satyam0010/DSA/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyam0010/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Satyam0010/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Satyam0010/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
