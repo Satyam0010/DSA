@@ -430,6 +430,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0151-reverse-words-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyam0010/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Satyam0010/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/Satyam0010/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/Satyam0010/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -700,6 +701,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Satyam0010/DSA/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyam0010/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Satyam0010/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Satyam0010/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/Satyam0010/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -771,6 +773,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0145-binary-tree-postorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Satyam0010/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Satyam0010/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Satyam0010/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -890,6 +893,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0139-word-break](https://github.com/Satyam0010/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Satyam0010/DSA/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyam0010/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Satyam0010/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
