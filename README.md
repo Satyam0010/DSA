@@ -59,6 +59,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0189-rotate-array](https://github.com/Satyam0010/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
+| [0212-word-search-ii](https://github.com/Satyam0010/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Satyam0010/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Satyam0010/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -431,6 +432,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyam0010/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Satyam0010/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/Satyam0010/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Satyam0010/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/Satyam0010/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -565,6 +567,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0074-search-a-2d-matrix](https://github.com/Satyam0010/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/Satyam0010/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Satyam0010/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Satyam0010/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Satyam0010/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -617,6 +620,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0090-subsets-ii](https://github.com/Satyam0010/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Satyam0010/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/Satyam0010/DSA/tree/main/0140-word-break-ii/) | Hard |
+| [0212-word-search-ii](https://github.com/Satyam0010/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/Satyam0010/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
@@ -894,6 +898,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0140-word-break-ii](https://github.com/Satyam0010/DSA/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyam0010/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Satyam0010/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/Satyam0010/DSA/tree/main/0212-word-search-ii/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
