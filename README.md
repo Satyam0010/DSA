@@ -43,6 +43,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam0010/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam0010/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Satyam0010/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Satyam0010/DSA/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Satyam0010/DSA/tree/main/0136-single-number/) | Easy |
@@ -334,6 +335,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam0010/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam0010/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyam0010/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Satyam0010/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Satyam0010/DSA/tree/main/0140-word-break-ii/) | Hard |
@@ -618,6 +620,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0011-container-with-most-water](https://github.com/Satyam0010/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Satyam0010/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam0010/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Satyam0010/DSA/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/Satyam0010/DSA/tree/main/0402-remove-k-digits/) | Medium |
