@@ -71,6 +71,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0239-sliding-window-maximum](https://github.com/Satyam0010/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/Satyam0010/DSA/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/Satyam0010/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -422,6 +423,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0217-contains-duplicate](https://github.com/Satyam0010/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Satyam0010/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/Satyam0010/DSA/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/Satyam0010/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -543,6 +545,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Satyam0010/DSA/tree/main/0169-majority-element/) | Easy |
+| [0274-h-index](https://github.com/Satyam0010/DSA/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Satyam0010/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
