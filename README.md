@@ -46,6 +46,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam0010/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Satyam0010/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Satyam0010/DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Satyam0010/DSA/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Satyam0010/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Satyam0010/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/Satyam0010/DSA/tree/main/0139-word-break/) | Medium |
@@ -659,6 +660,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam0010/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Satyam0010/DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Satyam0010/DSA/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/Satyam0010/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
