@@ -136,6 +136,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam0010/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Satyam0010/DSA/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Satyam0010/DSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satyam0010/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -262,6 +263,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Satyam0010/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Satyam0010/DSA/tree/main/2427-number-of-common-factors/) | Easy |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Satyam0010/DSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Satyam0010/DSA/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Satyam0010/DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -621,6 +623,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1952-three-divisors](https://github.com/Satyam0010/DSA/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Satyam0010/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Satyam0010/DSA/tree/main/2427-number-of-common-factors/) | Easy |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Satyam0010/DSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satyam0010/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
