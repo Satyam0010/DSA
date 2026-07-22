@@ -91,6 +91,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Satyam0010/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Satyam0010/DSA/tree/main/0500-keyboard-row/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Satyam0010/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam0010/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Satyam0010/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -434,6 +435,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0400-nth-digit](https://github.com/Satyam0010/DSA/tree/main/0400-nth-digit/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0441-arranging-coins](https://github.com/Satyam0010/DSA/tree/main/0441-arranging-coins/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Satyam0010/DSA/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyam0010/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
