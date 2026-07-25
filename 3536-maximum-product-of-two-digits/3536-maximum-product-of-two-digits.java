@@ -1,13 +1,17 @@
 class Solution {
     public int maxProduct(int n) {
-        PriorityQueue<Integer> q = new PriorityQueue<>((a,b) -> b-a);
+        int digit1 = 0;
+        int digit2 = 0;
         while(n > 0){
             int num = n%10;
-            q.add(num);
+            if(num > digit1){
+                digit2 = digit1;
+                digit1 = num;
+            }else if(num > digit2){
+                digit2 = num;
+            }
             n /= 10;
         }
-        int num1 = q.poll();
-        int num2 = q.poll();
-        return num1*num2;
+        return digit1*digit2;
     }
 }
