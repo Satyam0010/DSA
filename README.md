@@ -97,6 +97,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0566-reshape-the-matrix](https://github.com/Satyam0010/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Satyam0010/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Satyam0010/DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satyam0010/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam0010/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
@@ -244,6 +245,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0504-base-7](https://github.com/Satyam0010/DSA/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Satyam0010/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satyam0010/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Satyam0010/DSA/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Satyam0010/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0866-prime-palindrome](https://github.com/Satyam0010/DSA/tree/main/0866-prime-palindrome/) | Medium |
@@ -469,6 +471,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0414-third-maximum-number](https://github.com/Satyam0010/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satyam0010/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
