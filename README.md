@@ -42,6 +42,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0090-subsets-ii](https://github.com/Satyam0010/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/Satyam0010/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam0010/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam0010/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Satyam0010/DSA/tree/main/0130-surrounded-regions/) | Medium |
@@ -373,6 +374,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/Satyam0010/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam0010/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam0010/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyam0010/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
