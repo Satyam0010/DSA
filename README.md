@@ -1046,4 +1046,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/Satyam0010/DSA/tree/main/0195-tenth-line/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Satyam0010/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
