@@ -124,6 +124,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1390-four-divisors](https://github.com/Satyam0010/DSA/tree/main/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Satyam0010/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam0010/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -476,6 +477,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam0010/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Satyam0010/DSA/tree/main/2126-destroying-asteroids/) | Medium |
@@ -573,6 +575,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
