@@ -1049,5 +1049,6 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0595-big-countries](https://github.com/Satyam0010/DSA/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Satyam0010/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
