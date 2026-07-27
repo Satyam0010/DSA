@@ -1056,4 +1056,5 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1148-article-views-i](https://github.com/Satyam0010/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/Satyam0010/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Satyam0010/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Satyam0010/DSA/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
