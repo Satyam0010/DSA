@@ -286,6 +286,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2652-sum-multiples](https://github.com/Satyam0010/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Satyam0010/DSA/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Satyam0010/DSA/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam0010/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3099-harshad-number](https://github.com/Satyam0010/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Satyam0010/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
@@ -562,6 +563,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2810-faulty-keyboard](https://github.com/Satyam0010/DSA/tree/main/2810-faulty-keyboard/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Satyam0010/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Satyam0010/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam0010/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3174-clear-digits](https://github.com/Satyam0010/DSA/tree/main/3174-clear-digits/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satyam0010/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -717,6 +719,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2126-destroying-asteroids](https://github.com/Satyam0010/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam0010/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
