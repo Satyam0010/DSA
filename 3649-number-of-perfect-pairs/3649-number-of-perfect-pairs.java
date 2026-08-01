@@ -5,22 +5,12 @@ class Solution {
             nums[i] = Math.abs(nums[i]);
         }
         Arrays.sort(nums);
-        long result = 0;
-        for(int i = 0; i < len;i++){
-            int left = i+1;
-            int right = len-1;
-            int prev = i;
-            while(left <= right){
-                int mid = left + (right - left)/2;
-                if((long)nums[mid] <= 2L*nums[i]){
-                    prev = mid;
-                    left = mid+1;
-                } else {
-                    right = mid-1;
-                }
-            }
-            result += prev-i;
+        int left = 0;
+        long ans = 0;
+        for(int right = 0; right < len ;right++){
+            while(nums[right] > 2L* nums[left]) left++;
+            ans += right-left;
         }
-        return result;
+        return ans;
     }
 }
