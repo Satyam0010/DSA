@@ -158,6 +158,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3467-transform-array-by-parity](https://github.com/Satyam0010/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyam0010/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Satyam0010/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Satyam0010/DSA/tree/main/3668-restore-finishing-order/) | Easy |
 | [3905-multi-source-flood-fill](https://github.com/Satyam0010/DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Hash Table
@@ -300,6 +301,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyam0010/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Satyam0010/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam0010/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satyam0010/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satyam0010/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -377,6 +379,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam0010/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -509,6 +512,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3467-transform-array-by-parity](https://github.com/Satyam0010/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satyam0010/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam0010/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
