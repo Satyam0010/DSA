@@ -148,6 +148,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam0010/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Satyam0010/DSA/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Satyam0010/DSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
@@ -210,6 +211,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Satyam0010/DSA/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Satyam0010/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam0010/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -507,6 +509,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Satyam0010/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam0010/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Satyam0010/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -610,6 +613,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -663,6 +667,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2169-count-operations-to-obtain-zero](https://github.com/Satyam0010/DSA/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Satyam0010/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Satyam0010/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satyam0010/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Satyam0010/DSA/tree/main/2810-faulty-keyboard/) | Easy |
 | [3174-clear-digits](https://github.com/Satyam0010/DSA/tree/main/3174-clear-digits/) | Easy |
@@ -737,6 +742,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1903-largest-odd-number-in-string](https://github.com/Satyam0010/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam0010/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Satyam0010/DSA/tree/main/2126-destroying-asteroids/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam0010/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
