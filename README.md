@@ -88,6 +88,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0403-frog-jump](https://github.com/Satyam0010/DSA/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/Satyam0010/DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/Satyam0010/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -410,6 +411,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0392-is-subsequence](https://github.com/Satyam0010/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0403-frog-jump](https://github.com/Satyam0010/DSA/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Satyam0010/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Satyam0010/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -1105,4 +1107,12 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1683-invalid-tweets](https://github.com/Satyam0010/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Satyam0010/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Satyam0010/DSA/tree/main/1873-calculate-special-bonus/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Satyam0010/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Satyam0010/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
