@@ -83,6 +83,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0274-h-index](https://github.com/Satyam0010/DSA/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/Satyam0010/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam0010/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0403-frog-jump](https://github.com/Satyam0010/DSA/tree/main/0403-frog-jump/) | Hard |
@@ -409,6 +410,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0213-house-robber-ii](https://github.com/Satyam0010/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
+| [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Satyam0010/DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0343-integer-break](https://github.com/Satyam0010/DSA/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
@@ -1022,6 +1024,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Satyam0010/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0542-01-matrix](https://github.com/Satyam0010/DSA/tree/main/0542-01-matrix/) | Medium |
@@ -1117,6 +1120,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Satyam0010/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
@@ -1130,4 +1134,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
