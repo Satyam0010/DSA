@@ -144,6 +144,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Satyam0010/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam0010/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satyam0010/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Satyam0010/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satyam0010/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam0010/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -384,6 +385,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam0010/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satyam0010/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam0010/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -517,6 +519,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam0010/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satyam0010/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Satyam0010/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -751,6 +754,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam0010/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam0010/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Satyam0010/DSA/tree/main/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satyam0010/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Satyam0010/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam0010/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Satyam0010/DSA/tree/main/2126-destroying-asteroids/) | Medium |
