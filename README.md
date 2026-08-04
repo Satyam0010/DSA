@@ -163,6 +163,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Satyam0010/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Satyam0010/DSA/tree/main/3668-restore-finishing-order/) | Easy |
+| [3731-find-missing-elements](https://github.com/Satyam0010/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3905-multi-source-flood-fill](https://github.com/Satyam0010/DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3005-count-elements-with-maximum-frequency](https://github.com/Satyam0010/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam0010/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Satyam0010/DSA/tree/main/3668-restore-finishing-order/) | Easy |
+| [3731-find-missing-elements](https://github.com/Satyam0010/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3790-smallest-all-ones-multiple](https://github.com/Satyam0010/DSA/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -521,6 +523,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satyam0010/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam0010/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
+| [3731-find-missing-elements](https://github.com/Satyam0010/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
