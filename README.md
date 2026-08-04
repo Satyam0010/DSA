@@ -130,6 +130,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1250-check-if-it-is-a-good-array](https://github.com/Satyam0010/DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Satyam0010/DSA/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1390-four-divisors](https://github.com/Satyam0010/DSA/tree/main/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
@@ -213,6 +214,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0648-replace-words](https://github.com/Satyam0010/DSA/tree/main/0648-replace-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Satyam0010/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0817-linked-list-components](https://github.com/Satyam0010/DSA/tree/main/0817-linked-list-components/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -516,6 +518,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0881-boats-to-save-people](https://github.com/Satyam0010/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam0010/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -655,6 +658,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0383-ransom-note](https://github.com/Satyam0010/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Satyam0010/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
