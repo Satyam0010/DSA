@@ -980,6 +980,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satyam0010/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Satyam0010/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1050,6 +1051,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satyam0010/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Satyam0010/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/Satyam0010/DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -1091,6 +1093,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0841-keys-and-rooms](https://github.com/Satyam0010/DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satyam0010/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Satyam0010/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
