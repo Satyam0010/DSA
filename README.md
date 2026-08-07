@@ -405,6 +405,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Satyam0010/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/Satyam0010/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Satyam0010/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam0010/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -553,6 +554,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0049-group-anagrams](https://github.com/Satyam0010/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Satyam0010/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
+| [0072-edit-distance](https://github.com/Satyam0010/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Satyam0010/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/Satyam0010/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Satyam0010/DSA/tree/main/0140-word-break-ii/) | Hard |
