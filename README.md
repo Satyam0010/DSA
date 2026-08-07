@@ -311,6 +311,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Satyam0010/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Satyam0010/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Satyam0010/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyam0010/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Satyam0010/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam0010/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -605,6 +606,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam0010/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam0010/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3174-clear-digits](https://github.com/Satyam0010/DSA/tree/main/3174-clear-digits/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Satyam0010/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satyam0010/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Divide and Conquer
@@ -705,6 +707,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2413-smallest-even-multiple](https://github.com/Satyam0010/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Satyam0010/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Satyam0010/DSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Satyam0010/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satyam0010/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -771,6 +774,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam0010/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam0010/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Satyam0010/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -797,6 +801,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Satyam0010/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
