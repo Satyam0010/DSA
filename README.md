@@ -128,6 +128,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0994-rotting-oranges](https://github.com/Satyam0010/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Satyam0010/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Satyam0010/DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Satyam0010/DSA/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -279,6 +280,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0878-nth-magical-number](https://github.com/Satyam0010/DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [1017-convert-to-base-2](https://github.com/Satyam0010/DSA/tree/main/1017-convert-to-base-2/) | Medium |
 | [1025-divisor-game](https://github.com/Satyam0010/DSA/tree/main/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Satyam0010/DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Satyam0010/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -436,6 +438,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0788-rotated-digits](https://github.com/Satyam0010/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Satyam0010/DSA/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Satyam0010/DSA/tree/main/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Satyam0010/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
@@ -788,6 +791,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0238-product-of-array-except-self](https://github.com/Satyam0010/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam0010/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -815,6 +819,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0486-predict-the-winner](https://github.com/Satyam0010/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Satyam0010/DSA/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Satyam0010/DSA/tree/main/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Satyam0010/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Brainteaser
@@ -1158,10 +1163,12 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
 ## Complete Knapsack
 | Problem Name | Difficulty |
