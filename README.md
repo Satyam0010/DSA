@@ -161,6 +161,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satyam0010/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam0010/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Satyam0010/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Satyam0010/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -222,6 +223,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Satyam0010/DSA/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam0010/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Satyam0010/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam0010/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Satyam0010/DSA/tree/main/3668-restore-finishing-order/) | Easy |
@@ -537,6 +539,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam0010/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam0010/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Satyam0010/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satyam0010/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
