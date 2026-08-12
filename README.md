@@ -232,6 +232,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam0010/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Satyam0010/DSA/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Satyam0010/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Satyam0010/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3790-smallest-all-ones-multiple](https://github.com/Satyam0010/DSA/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -625,6 +626,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Satyam0010/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satyam0010/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Satyam0010/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
