@@ -234,6 +234,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3731-find-missing-elements](https://github.com/Satyam0010/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Satyam0010/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3790-smallest-all-ones-multiple](https://github.com/Satyam0010/DSA/tree/main/3790-smallest-all-ones-multiple/) | Medium |
+| [3945-digit-frequency-score](https://github.com/Satyam0010/DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +331,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Satyam0010/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3790-smallest-all-ones-multiple](https://github.com/Satyam0010/DSA/tree/main/3790-smallest-all-ones-multiple/) | Medium |
+| [3945-digit-frequency-score](https://github.com/Satyam0010/DSA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
