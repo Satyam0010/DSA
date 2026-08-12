@@ -222,6 +222,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1796-second-largest-digit-in-a-string](https://github.com/Satyam0010/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Satyam0010/DSA/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam0010/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -608,6 +609,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam0010/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Satyam0010/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/Satyam0010/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Satyam0010/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Satyam0010/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satyam0010/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
