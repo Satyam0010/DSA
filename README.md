@@ -130,6 +130,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0881-boats-to-save-people](https://github.com/Satyam0010/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Satyam0010/DSA/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Satyam0010/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Satyam0010/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
@@ -461,6 +462,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0678-valid-parenthesis-string](https://github.com/Satyam0010/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/Satyam0010/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Satyam0010/DSA/tree/main/0877-stone-game/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Satyam0010/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1025-divisor-game](https://github.com/Satyam0010/DSA/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Satyam0010/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -778,6 +780,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0566-reshape-the-matrix](https://github.com/Satyam0010/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/Satyam0010/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/Satyam0010/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Satyam0010/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
