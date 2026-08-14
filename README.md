@@ -255,6 +255,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0043-multiply-strings](https://github.com/Satyam0010/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Satyam0010/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Satyam0010/DSA/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/Satyam0010/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Satyam0010/DSA/tree/main/0069-sqrtx/) | Easy |
@@ -424,6 +425,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0045-jump-game-ii](https://github.com/Satyam0010/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Satyam0010/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Satyam0010/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Satyam0010/DSA/tree/main/0072-edit-distance/) | Medium |
@@ -1231,4 +1233,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Satyam0010/DSA/tree/main/0229-majority-element-ii/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Satyam0010/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
