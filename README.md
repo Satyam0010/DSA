@@ -433,6 +433,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0064-minimum-path-sum](https://github.com/Satyam0010/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Satyam0010/DSA/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/Satyam0010/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0118-pascals-triangle](https://github.com/Satyam0010/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Satyam0010/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Satyam0010/DSA/tree/main/0120-triangle/) | Medium |
@@ -591,6 +592,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0058-length-of-last-word](https://github.com/Satyam0010/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/Satyam0010/DSA/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/Satyam0010/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Satyam0010/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/Satyam0010/DSA/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Satyam0010/DSA/tree/main/0140-word-break-ii/) | Hard |
