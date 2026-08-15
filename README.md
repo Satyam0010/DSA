@@ -87,6 +87,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0274-h-index](https://github.com/Satyam0010/DSA/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/Satyam0010/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Satyam0010/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam0010/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -449,6 +450,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0213-house-robber-ii](https://github.com/Satyam0010/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Satyam0010/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Satyam0010/DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0343-integer-break](https://github.com/Satyam0010/DSA/tree/main/0343-integer-break/) | Medium |
@@ -517,6 +519,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Satyam0010/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Satyam0010/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/Satyam0010/DSA/tree/main/0400-nth-digit/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -1249,4 +1252,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Satyam0010/DSA/tree/main/0062-unique-paths/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Satyam0010/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
