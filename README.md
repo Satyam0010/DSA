@@ -145,6 +145,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Satyam0010/DSA/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Satyam0010/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1390-four-divisors](https://github.com/Satyam0010/DSA/tree/main/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
@@ -238,6 +239,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0771-jewels-and-stones](https://github.com/Satyam0010/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0817-linked-list-components](https://github.com/Satyam0010/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Satyam0010/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -377,6 +379,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/Satyam0010/DSA/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Satyam0010/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Satyam0010/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Satyam0010/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -834,6 +837,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0881-boats-to-save-people](https://github.com/Satyam0010/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam0010/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam0010/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Satyam0010/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Satyam0010/DSA/tree/main/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satyam0010/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Satyam0010/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
