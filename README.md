@@ -385,6 +385,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0693-binary-number-with-alternating-bits](https://github.com/Satyam0010/DSA/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Satyam0010/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Satyam0010/DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Satyam0010/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Satyam0010/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
