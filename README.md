@@ -183,6 +183,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam0010/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam0010/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Satyam0010/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam0010/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Satyam0010/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Satyam0010/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -769,6 +770,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satyam0010/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Satyam0010/DSA/tree/main/2810-faulty-keyboard/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam0010/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Satyam0010/DSA/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Satyam0010/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Number Theory
