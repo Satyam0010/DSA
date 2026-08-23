@@ -329,6 +329,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Satyam0010/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Satyam0010/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Satyam0010/DSA/tree/main/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/Satyam0010/DSA/tree/main/1952-three-divisors/) | Easy |
 | [2029-stone-game-ix](https://github.com/Satyam0010/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Satyam0010/DSA/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
@@ -675,6 +676,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1796-second-largest-digit-in-a-string](https://github.com/Satyam0010/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Satyam0010/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Satyam0010/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Satyam0010/DSA/tree/main/1927-sum-game/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satyam0010/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satyam0010/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
@@ -858,6 +860,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Satyam0010/DSA/tree/main/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satyam0010/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Satyam0010/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Satyam0010/DSA/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam0010/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam0010/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Satyam0010/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -910,6 +913,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1025-divisor-game](https://github.com/Satyam0010/DSA/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1927-sum-game](https://github.com/Satyam0010/DSA/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam0010/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Satyam0010/DSA/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Brainteaser
