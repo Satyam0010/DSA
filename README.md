@@ -131,6 +131,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyam0010/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Satyam0010/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Satyam0010/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Satyam0010/DSA/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Satyam0010/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -566,6 +567,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0731-my-calendar-ii](https://github.com/Satyam0010/DSA/tree/main/0731-my-calendar-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyam0010/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Satyam0010/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0878-nth-magical-number](https://github.com/Satyam0010/DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam0010/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Satyam0010/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
