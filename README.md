@@ -145,6 +145,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1095-find-in-mountain-array](https://github.com/Satyam0010/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Satyam0010/DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyam0010/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Satyam0010/DSA/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -568,6 +569,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0878-nth-magical-number](https://github.com/Satyam0010/DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam0010/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Satyam0010/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyam0010/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam0010/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
