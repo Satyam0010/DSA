@@ -340,6 +340,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1872-stone-game-viii](https://github.com/Satyam0010/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Satyam0010/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/Satyam0010/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/Satyam0010/DSA/tree/main/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/Satyam0010/DSA/tree/main/1952-three-divisors/) | Easy |
 | [2029-stone-game-ix](https://github.com/Satyam0010/DSA/tree/main/2029-stone-game-ix/) | Medium |
@@ -532,6 +533,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0486-predict-the-winner](https://github.com/Satyam0010/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1922-count-good-numbers](https://github.com/Satyam0010/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
