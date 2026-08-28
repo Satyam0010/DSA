@@ -92,6 +92,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0300-longest-increasing-subsequence](https://github.com/Satyam0010/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam0010/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0403-frog-jump](https://github.com/Satyam0010/DSA/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -235,6 +236,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Satyam0010/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam0010/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/Satyam0010/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -443,6 +445,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Satyam0010/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Satyam0010/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Satyam0010/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Satyam0010/DSA/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -566,6 +569,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Satyam0010/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Satyam0010/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/Satyam0010/DSA/tree/main/0400-nth-digit/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -606,6 +610,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Satyam0010/DSA/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Satyam0010/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam0010/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
