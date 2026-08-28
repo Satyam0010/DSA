@@ -468,6 +468,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyam0010/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -728,6 +729,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satyam0010/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Satyam0010/DSA/tree/main/3606-coupon-code-validator/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Satyam0010/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Divide and Conquer
@@ -852,6 +854,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3345-smallest-divisible-digit-product-i](https://github.com/Satyam0010/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Satyam0010/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
