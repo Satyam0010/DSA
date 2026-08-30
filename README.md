@@ -93,6 +93,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Satyam0010/DSA/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam0010/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0403-frog-jump](https://github.com/Satyam0010/DSA/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -761,6 +762,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0239-sliding-window-maximum](https://github.com/Satyam0010/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Satyam0010/DSA/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam0010/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
