@@ -219,6 +219,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0041-first-missing-positive](https://github.com/Satyam0010/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Satyam0010/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Satyam0010/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Satyam0010/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Satyam0010/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Satyam0010/DSA/tree/main/0139-word-break/) | Medium |
@@ -666,6 +667,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0058-length-of-last-word](https://github.com/Satyam0010/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Satyam0010/DSA/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/Satyam0010/DSA/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Satyam0010/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/Satyam0010/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Satyam0010/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/Satyam0010/DSA/tree/main/0139-word-break/) | Medium |
@@ -1249,6 +1251,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam0010/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Satyam0010/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam0010/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Satyam0010/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Satyam0010/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
