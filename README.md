@@ -257,6 +257,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0648-replace-words](https://github.com/Satyam0010/DSA/tree/main/0648-replace-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Satyam0010/DSA/tree/main/0771-jewels-and-stones/) | Easy |
+| [0791-custom-sort-string](https://github.com/Satyam0010/DSA/tree/main/0791-custom-sort-string/) | Medium |
 | [0817-linked-list-components](https://github.com/Satyam0010/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Satyam0010/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -626,6 +627,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam0010/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [0791-custom-sort-string](https://github.com/Satyam0010/DSA/tree/main/0791-custom-sort-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Satyam0010/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -709,6 +711,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0696-count-binary-substrings](https://github.com/Satyam0010/DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/Satyam0010/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Satyam0010/DSA/tree/main/0771-jewels-and-stones/) | Easy |
+| [0791-custom-sort-string](https://github.com/Satyam0010/DSA/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/Satyam0010/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Satyam0010/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam0010/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
