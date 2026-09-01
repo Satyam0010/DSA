@@ -521,6 +521,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0486-predict-the-winner](https://github.com/Satyam0010/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Satyam0010/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Satyam0010/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Satyam0010/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Satyam0010/DSA/tree/main/0647-palindromic-substrings/) | Medium |
@@ -709,6 +710,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0459-repeated-substring-pattern](https://github.com/Satyam0010/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/Satyam0010/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/Satyam0010/DSA/tree/main/0504-base-7/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Satyam0010/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Satyam0010/DSA/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Satyam0010/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyam0010/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
