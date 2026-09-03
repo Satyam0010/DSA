@@ -80,6 +80,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0216-combination-sum-iii](https://github.com/Satyam0010/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Satyam0010/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Satyam0010/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0221-maximal-square](https://github.com/Satyam0010/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0228-summary-ranges](https://github.com/Satyam0010/DSA/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/Satyam0010/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Satyam0010/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -515,6 +516,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0152-maximum-product-subarray](https://github.com/Satyam0010/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Satyam0010/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Satyam0010/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/Satyam0010/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Satyam0010/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -906,6 +908,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0130-surrounded-regions](https://github.com/Satyam0010/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Satyam0010/DSA/tree/main/0212-word-search-ii/) | Hard |
+| [0221-maximal-square](https://github.com/Satyam0010/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Satyam0010/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Satyam0010/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Satyam0010/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
