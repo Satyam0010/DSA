@@ -105,6 +105,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/Satyam0010/DSA/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Satyam0010/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Satyam0010/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
@@ -529,6 +530,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0403-frog-jump](https://github.com/Satyam0010/DSA/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Satyam0010/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Satyam0010/DSA/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/Satyam0010/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Satyam0010/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -720,6 +722,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0443-string-compression](https://github.com/Satyam0010/DSA/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam0010/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Satyam0010/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/Satyam0010/DSA/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0500-keyboard-row](https://github.com/Satyam0010/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/Satyam0010/DSA/tree/main/0504-base-7/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Satyam0010/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -1372,11 +1375,13 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Satyam0010/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Satyam0010/DSA/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/Satyam0010/DSA/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Satyam0010/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Satyam0010/DSA/tree/main/0474-ones-and-zeroes/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
