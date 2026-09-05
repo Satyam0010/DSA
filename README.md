@@ -319,6 +319,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0189-rotate-array](https://github.com/Satyam0010/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Satyam0010/DSA/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Satyam0010/DSA/tree/main/0204-count-primes/) | Medium |
+| [0224-basic-calculator](https://github.com/Satyam0010/DSA/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0258-add-digits](https://github.com/Satyam0010/DSA/tree/main/0258-add-digits/) | Easy |
@@ -564,6 +565,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0050-powx-n](https://github.com/Satyam0010/DSA/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/Satyam0010/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Satyam0010/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/Satyam0010/DSA/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Satyam0010/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Satyam0010/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -708,6 +710,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0208-implement-trie-prefix-tree](https://github.com/Satyam0010/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Satyam0010/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/Satyam0010/DSA/tree/main/0212-word-search-ii/) | Hard |
+| [0224-basic-calculator](https://github.com/Satyam0010/DSA/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Satyam0010/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Satyam0010/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -1079,6 +1082,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0145-binary-tree-postorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Satyam0010/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Satyam0010/DSA/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/Satyam0010/DSA/tree/main/0224-basic-calculator/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/Satyam0010/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Satyam0010/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Satyam0010/DSA/tree/main/0394-decode-string/) | Medium |
