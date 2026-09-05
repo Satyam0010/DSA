@@ -142,6 +142,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Satyam0010/DSA/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Satyam0010/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Satyam0010/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Satyam0010/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Satyam0010/DSA/tree/main/0994-rotting-oranges/) | Medium |
@@ -268,6 +269,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0771-jewels-and-stones](https://github.com/Satyam0010/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0791-custom-sort-string](https://github.com/Satyam0010/DSA/tree/main/0791-custom-sort-string/) | Medium |
 | [0817-linked-list-components](https://github.com/Satyam0010/DSA/tree/main/0817-linked-list-components/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Satyam0010/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Satyam0010/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -980,6 +982,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0560-subarray-sum-equals-k](https://github.com/Satyam0010/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Satyam0010/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/Satyam0010/DSA/tree/main/0731-my-calendar-ii/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Satyam0010/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam0010/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -1303,6 +1306,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Satyam0010/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam0010/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Satyam0010/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam0010/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Satyam0010/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
