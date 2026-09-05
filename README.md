@@ -80,6 +80,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0216-combination-sum-iii](https://github.com/Satyam0010/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Satyam0010/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Satyam0010/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0220-contains-duplicate-iii](https://github.com/Satyam0010/DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0221-maximal-square](https://github.com/Satyam0010/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0228-summary-ranges](https://github.com/Satyam0010/DSA/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/Satyam0010/DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -636,6 +637,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Satyam0010/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0220-contains-duplicate-iii](https://github.com/Satyam0010/DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0229-majority-element-ii](https://github.com/Satyam0010/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Satyam0010/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
@@ -817,6 +819,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Satyam0010/DSA/tree/main/0164-maximum-gap/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/Satyam0010/DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam0010/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -1301,6 +1304,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0076-minimum-window-substring](https://github.com/Satyam0010/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam0010/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Satyam0010/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0220-contains-duplicate-iii](https://github.com/Satyam0010/DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Satyam0010/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Satyam0010/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -1420,6 +1424,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Satyam0010/DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0729-my-calendar-i](https://github.com/Satyam0010/DSA/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Satyam0010/DSA/tree/main/0731-my-calendar-ii/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satyam0010/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
