@@ -133,6 +133,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0733-flood-fill](https://github.com/Satyam0010/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Satyam0010/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Satyam0010/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0817-linked-list-components](https://github.com/Satyam0010/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyam0010/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -929,6 +930,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0542-01-matrix](https://github.com/Satyam0010/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Satyam0010/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/Satyam0010/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Satyam0010/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Satyam0010/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Satyam0010/DSA/tree/main/0994-rotting-oranges/) | Medium |
