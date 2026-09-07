@@ -162,6 +162,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1390-four-divisors](https://github.com/Satyam0010/DSA/tree/main/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satyam0010/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Satyam0010/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam0010/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -999,6 +1000,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0930-binary-subarrays-with-sum](https://github.com/Satyam0010/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam0010/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satyam0010/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1872-stone-game-viii](https://github.com/Satyam0010/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/Satyam0010/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -1326,6 +1328,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0643-maximum-average-subarray-i](https://github.com/Satyam0010/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Satyam0010/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam0010/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satyam0010/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Satyam0010/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/Satyam0010/DSA/tree/main/2653-sliding-subarray-beauty/) | Medium |
