@@ -408,6 +408,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3783-mirror-distance-of-an-integer](https://github.com/Satyam0010/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3790-smallest-all-ones-multiple](https://github.com/Satyam0010/DSA/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Satyam0010/DSA/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Satyam0010/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satyam0010/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Satyam0010/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Satyam0010/DSA/tree/main/3945-digit-frequency-score/) | Easy |
