@@ -94,6 +94,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0287-find-the-duplicate-number](https://github.com/Satyam0010/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Satyam0010/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Satyam0010/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam0010/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Satyam0010/DSA/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -964,6 +965,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0134-gas-station](https://github.com/Satyam0010/DSA/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Satyam0010/DSA/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/Satyam0010/DSA/tree/main/0179-largest-number/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Satyam0010/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0402-remove-k-digits](https://github.com/Satyam0010/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/Satyam0010/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -1473,6 +1475,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Satyam0010/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Satyam0010/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
