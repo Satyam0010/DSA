@@ -168,6 +168,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Satyam0010/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Satyam0010/DSA/tree/main/1472-design-browser-history/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyam0010/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam0010/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -564,6 +565,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Satyam0010/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyam0010/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1872-stone-game-viii](https://github.com/Satyam0010/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyam0010/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -1349,6 +1351,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1248-count-number-of-nice-subarrays](https://github.com/Satyam0010/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satyam0010/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satyam0010/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyam0010/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Satyam0010/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/Satyam0010/DSA/tree/main/2653-sliding-subarray-beauty/) | Medium |
