@@ -173,6 +173,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Satyam0010/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Satyam0010/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -1010,6 +1011,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Satyam0010/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satyam0010/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Satyam0010/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1872-stone-game-viii](https://github.com/Satyam0010/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/Satyam0010/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
