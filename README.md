@@ -771,6 +771,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1143-longest-common-subsequence](https://github.com/Satyam0010/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/Satyam0010/DSA/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satyam0010/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satyam0010/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Satyam0010/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Satyam0010/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -1347,6 +1348,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam0010/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Satyam0010/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satyam0010/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satyam0010/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Satyam0010/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/Satyam0010/DSA/tree/main/2653-sliding-subarray-beauty/) | Medium |
