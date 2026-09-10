@@ -1196,6 +1196,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0700-search-in-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam0010/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1236,6 +1237,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0993-cousins-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam0010/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satyam0010/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Satyam0010/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
@@ -1277,6 +1279,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0700-search-in-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam0010/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
