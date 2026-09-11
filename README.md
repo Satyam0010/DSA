@@ -511,6 +511,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam0010/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satyam0010/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satyam0010/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam0010/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -1112,6 +1113,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1472-design-browser-history](https://github.com/Satyam0010/DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Satyam0010/DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Satyam0010/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Satyam0010/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
@@ -1143,6 +1145,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam0010/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1472-design-browser-history](https://github.com/Satyam0010/DSA/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satyam0010/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Satyam0010/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/Satyam0010/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Queue
