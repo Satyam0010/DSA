@@ -197,6 +197,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2215-find-the-difference-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/Satyam0010/DSA/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/Satyam0010/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Satyam0010/DSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -293,6 +294,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1796-second-largest-digit-in-a-string](https://github.com/Satyam0010/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyam0010/DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Satyam0010/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/Satyam0010/DSA/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Satyam0010/DSA/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
@@ -907,6 +909,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2169-count-operations-to-obtain-zero](https://github.com/Satyam0010/DSA/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Satyam0010/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Satyam0010/DSA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/Satyam0010/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satyam0010/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Satyam0010/DSA/tree/main/2810-faulty-keyboard/) | Easy |
@@ -966,6 +969,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1091-shortest-path-in-binary-matrix](https://github.com/Satyam0010/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Satyam0010/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Satyam0010/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/Satyam0010/DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Interactive
