@@ -127,6 +127,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0648-replace-words](https://github.com/Satyam0010/DSA/tree/main/0648-replace-words/) | Medium |
 | [0704-binary-search](https://github.com/Satyam0010/DSA/tree/main/0704-binary-search/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam0010/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Satyam0010/DSA/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0724-find-pivot-index](https://github.com/Satyam0010/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0729-my-calendar-i](https://github.com/Satyam0010/DSA/tree/main/0729-my-calendar-i/) | Medium |
@@ -567,6 +568,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0542-01-matrix](https://github.com/Satyam0010/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Satyam0010/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Satyam0010/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam0010/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0788-rotated-digits](https://github.com/Satyam0010/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Satyam0010/DSA/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Satyam0010/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -1000,6 +1002,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0605-can-place-flowers](https://github.com/Satyam0010/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Satyam0010/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam0010/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0860-lemonade-change](https://github.com/Satyam0010/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Satyam0010/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam0010/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
