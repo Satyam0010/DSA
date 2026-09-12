@@ -1590,4 +1590,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Satyam0010/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
