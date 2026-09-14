@@ -19,19 +19,18 @@ class Solution {
         return find(1,n);
     }
 
-    private List<TreeNode> find(int l,int r){
+    private List<TreeNode> find(int l, int r){
         List<TreeNode> ans = new ArrayList<>();
-        if( l >= r){
+        if(l >= r){
             if(l == r){
                 TreeNode node = new TreeNode(l);
                 ans.add(node);
-            } else {
+            }else{
                 ans.add(null);
             }
             return ans;
         }
-
-        for(int i = l ; i <= r;i++ ){
+        for(int i = l; i <= r; i++){
             List<TreeNode> left = find(l,i-1);
             List<TreeNode> right = find(i+1,r);
             for(TreeNode ll : left){
