@@ -136,6 +136,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0735-asteroid-collision](https://github.com/Satyam0010/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Satyam0010/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Satyam0010/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0817-linked-list-components](https://github.com/Satyam0010/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
@@ -581,6 +582,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0647-palindromic-substrings](https://github.com/Satyam0010/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Satyam0010/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam0010/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Satyam0010/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Satyam0010/DSA/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Satyam0010/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
