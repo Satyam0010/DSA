@@ -11,10 +11,10 @@ class Solution {
             ans.add(new ArrayList<>(curr));
             return;
         }
-        if(start > n) return;
-        curr.add(start);
-        find(start+1,n,k-1,curr);
-        curr.remove(curr.size()-1);
-        find(start+1,n,k,curr);
+        for(int i = start; i <= n-k+1;i++){
+            curr.add(i);
+            find(i+1,n,k-1,curr);
+            curr.remove(curr.size()-1);
+        }
     }
 }
