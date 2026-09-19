@@ -817,6 +817,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam0010/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Satyam0010/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/Satyam0010/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Satyam0010/DSA/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam0010/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyam0010/DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam0010/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -1286,6 +1287,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Satyam0010/DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Satyam0010/DSA/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -1332,6 +1334,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0872-leaf-similar-trees](https://github.com/Satyam0010/DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Satyam0010/DSA/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -1382,6 +1385,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Satyam0010/DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Satyam0010/DSA/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
