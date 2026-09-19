@@ -598,6 +598,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1140-stone-game-ii](https://github.com/Satyam0010/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Satyam0010/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam0010/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyam0010/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -1287,6 +1288,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0993-cousins-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam0010/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -1332,6 +1334,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam0010/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -1381,6 +1384,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0993-cousins-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam0010/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
@@ -1432,6 +1436,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1638,6 +1643,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
