@@ -114,6 +114,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Satyam0010/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Satyam0010/DSA/tree/main/0500-keyboard-row/) | Easy |
+| [0517-super-washing-machines](https://github.com/Satyam0010/DSA/tree/main/0517-super-washing-machines/) | Hard |
 | [0518-coin-change-ii](https://github.com/Satyam0010/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Satyam0010/DSA/tree/main/0542-01-matrix/) | Medium |
@@ -1035,6 +1036,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0409-longest-palindrome](https://github.com/Satyam0010/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0517-super-washing-machines](https://github.com/Satyam0010/DSA/tree/main/0517-super-washing-machines/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satyam0010/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Satyam0010/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
