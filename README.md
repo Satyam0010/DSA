@@ -1326,6 +1326,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0145-binary-tree-postorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Satyam0010/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Satyam0010/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Satyam0010/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Satyam0010/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -1417,6 +1418,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0130-surrounded-regions](https://github.com/Satyam0010/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Satyam0010/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Satyam0010/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/Satyam0010/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -1494,6 +1496,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Satyam0010/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Satyam0010/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Satyam0010/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Satyam0010/DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -1672,4 +1675,12 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Satyam0010/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Satyam0010/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Satyam0010/DSA/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Satyam0010/DSA/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
