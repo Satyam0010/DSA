@@ -355,6 +355,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0263-ugly-number](https://github.com/Satyam0010/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Satyam0010/DSA/tree/main/0268-missing-number/) | Easy |
+| [0279-perfect-squares](https://github.com/Satyam0010/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Satyam0010/DSA/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Satyam0010/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Satyam0010/DSA/tree/main/0342-power-of-four/) | Easy |
@@ -569,6 +570,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0221-maximal-square](https://github.com/Satyam0010/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Satyam0010/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/Satyam0010/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Satyam0010/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Satyam0010/DSA/tree/main/0337-house-robber-iii/) | Medium |
@@ -1416,6 +1418,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0199-binary-tree-right-side-view](https://github.com/Satyam0010/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/Satyam0010/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Satyam0010/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -1542,6 +1545,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Satyam0010/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Satyam0010/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Satyam0010/DSA/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -1568,6 +1572,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Satyam0010/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Satyam0010/DSA/tree/main/0518-coin-change-ii/) | Medium |
 ## Longest Common Subsequence
