@@ -878,6 +878,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyam0010/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/Satyam0010/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -894,6 +895,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Satyam0010/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Satyam0010/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Satyam0010/DSA/tree/main/0264-ugly-number-ii/) | Medium |
@@ -909,6 +911,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Satyam0010/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/Satyam0010/DSA/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
@@ -1169,6 +1172,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0002-add-two-numbers](https://github.com/Satyam0010/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satyam0010/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Satyam0010/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/Satyam0010/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Satyam0010/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Satyam0010/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Satyam0010/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -1705,4 +1709,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Satyam0010/DSA/tree/main/0056-merge-intervals/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Satyam0010/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
