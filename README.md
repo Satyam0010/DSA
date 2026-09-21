@@ -33,6 +33,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0053-maximum-subarray](https://github.com/Satyam0010/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Satyam0010/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Satyam0010/DSA/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Satyam0010/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Satyam0010/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Satyam0010/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Satyam0010/DSA/tree/main/0066-plus-one/) | Easy |
@@ -701,6 +702,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0016-3sum-closest](https://github.com/Satyam0010/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Satyam0010/DSA/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Satyam0010/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Satyam0010/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Satyam0010/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Satyam0010/DSA/tree/main/0148-sort-list/) | Medium |
@@ -1699,4 +1701,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Satyam0010/DSA/tree/main/0207-course-schedule/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Satyam0010/DSA/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
