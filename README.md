@@ -850,6 +850,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1796-second-largest-digit-in-a-string](https://github.com/Satyam0010/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Satyam0010/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Satyam0010/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam0010/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1927-sum-game](https://github.com/Satyam0010/DSA/tree/main/1927-sum-game/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satyam0010/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satyam0010/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -968,6 +969,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Satyam0010/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam0010/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Satyam0010/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Satyam0010/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satyam0010/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -1230,6 +1232,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam0010/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1472-design-browser-history](https://github.com/Satyam0010/DSA/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satyam0010/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam0010/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Satyam0010/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam0010/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Satyam0010/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
