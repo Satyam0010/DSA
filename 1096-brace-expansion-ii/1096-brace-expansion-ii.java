@@ -1,64 +1,90 @@
-public class Solution {
+class Solution {
     public List<String> braceExpansionII(String expression) {
-        Stack<Object> stack = new Stack<>();
-        List<List<String>> currentGroups = new ArrayList<>();
-        currentGroups.add(new ArrayList<>(Arrays.asList("")));
-        
-        int i = 0;
-        while (i < expression.length()) {
-            char ch = expression.charAt(i);
-            
+        Set<String> result = solve(expression, 0, expression.length() - 1);
+
+        List<String> ans = new ArrayList<>(result);
+        Collections.sort(ans);
+
+        return ans;
+    }
+
+    private Set<String> solve(String s, int l, int r) {
+        Set<String> result = new HashSet<>();
+
+        if (l == r) {
+            result.add(String.valueOf(s.charAt(l)));
+            return result;
+        }
+
+        if (s.charAt(l) == '{' && matchingBrace(s, l) == r) {
+            return solve(s, l + 1, r - 1);
+        }
+
+        int balance = 0;
+        int start = l;
+
+        for (int i = l; i <= r; i++) {
+            char ch = s.charAt(i);
+
             if (ch == '{') {
-                stack.push(currentGroups);
-                currentGroups = new ArrayList<>();
-                currentGroups.add(new ArrayList<>(Arrays.asList("")));
-                i++;
+                balance++;
             } else if (ch == '}') {
-                List<String> combinedCurrent = flattenGroups(currentGroups);
-                @SuppressWarnings("unchecked")
-                List<List<String>> previousGroups = (List<List<String>>) stack.pop();
-                
-                List<String> lastGroup = previousGroups.get(previousGroups.size() - 1);
-                previousGroups.set(previousGroups.size() - 1, mergeProduct(lastGroup, combinedCurrent));
-                
-                currentGroups = previousGroups;
-                i++;
-            } else if (ch == ',') {
-                currentGroups.add(new ArrayList<>(Arrays.asList("")));
-                i++;
-            } else {
-                StringBuilder sb = new StringBuilder();
-                while (i < expression.length() && Character.isLowerCase(expression.charAt(i))) {
-                    sb.append(expression.charAt(i));
-                    i++;
+                balance--;
+            } else if (ch == ',' && balance == 0) {
+
+                result.addAll(solve(s, start, i - 1));
+                start = i + 1;
+            }
+        }
+
+        if (start != l) {
+            result.addAll(solve(s, start, r));
+            return result;
+        }
+
+        balance = 0;
+
+        for (int i = l; i < r; i++) {
+            char ch = s.charAt(i);
+
+            if (ch == '{') {
+                balance++;
+            } else if (ch == '}') {
+                balance--;
+            }
+
+            if (balance == 0) {
+                Set<String> left = solve(s, l, i);
+                Set<String> right = solve(s, i + 1, r);
+
+                for (String a : left) {
+                    for (String b : right) {
+                        result.add(a + b);
+                    }
                 }
-                String word = sb.toString();
-                
-                List<String> lastGroup = currentGroups.get(currentGroups.size() - 1);
-                currentGroups.set(currentGroups.size() - 1, mergeProduct(lastGroup, Arrays.asList(word)));
+
+                return result;
             }
         }
-        
-        List<String> flatResult = flattenGroups(currentGroups);
-        Set<String> uniqueSortedSet = new TreeSet<>(flatResult);
-        return new ArrayList<>(uniqueSortedSet);
+
+        return result;
     }
-    
-    private List<String> mergeProduct(List<String> list1, List<String> list2) {
-        List<String> result = new ArrayList<>();
-        for (String s1 : list1) {
-            for (String s2 : list2) {
-                result.add(s1 + s2);
+
+    private int matchingBrace(String s, int start) {
+        int balance = 0;
+
+        for (int i = start; i < s.length(); i++) {
+            if (s.charAt(i) == '{') {
+                balance++;
+            } else if (s.charAt(i) == '}') {
+                balance--;
+
+                if (balance == 0) {
+                    return i;
+                }
             }
         }
-        return result;
-    }
-    
-    private List<String> flattenGroups(List<List<String>> groups) {
-        List<String> result = new ArrayList<>();
-        for (List<String> group : groups) {
-            result.addAll(group);
-        }
-        return result;
+
+        return -1;
     }
 }
