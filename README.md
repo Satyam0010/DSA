@@ -299,6 +299,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0791-custom-sort-string](https://github.com/Satyam0010/DSA/tree/main/0791-custom-sort-string/) | Medium |
 | [0817-linked-list-components](https://github.com/Satyam0010/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Satyam0010/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Satyam0010/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Satyam0010/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Satyam0010/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -739,6 +740,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0881-boats-to-save-people](https://github.com/Satyam0010/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Satyam0010/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam0010/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -846,6 +848,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam0010/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyam0010/DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam0010/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Satyam0010/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Satyam0010/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/Satyam0010/DSA/tree/main/1392-longest-happy-prefix/) | Hard |
@@ -1148,6 +1151,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0216-combination-sum-iii](https://github.com/Satyam0010/DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam0010/DSA/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0494-target-sum](https://github.com/Satyam0010/DSA/tree/main/0494-target-sum/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Satyam0010/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Satyam0010/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Game Theory
@@ -1239,6 +1243,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1021-remove-outermost-parentheses](https://github.com/Satyam0010/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam0010/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam0010/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Satyam0010/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1472-design-browser-history](https://github.com/Satyam0010/DSA/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satyam0010/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam0010/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -1467,6 +1472,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0994-rotting-oranges](https://github.com/Satyam0010/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Satyam0010/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Satyam0010/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
