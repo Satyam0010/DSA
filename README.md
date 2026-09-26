@@ -479,6 +479,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0371-sum-of-two-integers](https://github.com/Satyam0010/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Satyam0010/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0461-hamming-distance](https://github.com/Satyam0010/DSA/tree/main/0461-hamming-distance/) | Easy |
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/Satyam0010/DSA/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
