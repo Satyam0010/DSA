@@ -186,6 +186,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Satyam0010/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Satyam0010/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Satyam0010/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Satyam0010/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -313,6 +314,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Satyam0010/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/Satyam0010/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Satyam0010/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyam0010/DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Satyam0010/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -859,6 +861,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1768-merge-strings-alternately](https://github.com/Satyam0010/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Satyam0010/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/Satyam0010/DSA/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Satyam0010/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Satyam0010/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Satyam0010/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam0010/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
