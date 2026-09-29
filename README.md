@@ -206,6 +206,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satyam0010/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/Satyam0010/DSA/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satyam0010/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Satyam0010/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -627,6 +628,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyam0010/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Satyam0010/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Satyam0010/DSA/tree/main/1872-stone-game-viii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satyam0010/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Satyam0010/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyam0010/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -1058,6 +1060,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1091-shortest-path-in-binary-matrix](https://github.com/Satyam0010/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satyam0010/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Satyam0010/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Satyam0010/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/Satyam0010/DSA/tree/main/3905-multi-source-flood-fill/) | Medium |
@@ -1669,6 +1672,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0032-longest-valid-parentheses](https://github.com/Satyam0010/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Satyam0010/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satyam0010/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satyam0010/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
