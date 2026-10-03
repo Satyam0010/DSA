@@ -213,6 +213,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Satyam0010/DSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Satyam0010/DSA/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Satyam0010/DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satyam0010/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/Satyam0010/DSA/tree/main/2653-sliding-subarray-beauty/) | Medium |
@@ -556,6 +557,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satyam0010/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Satyam0010/DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Satyam0010/DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Satyam0010/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Satyam0010/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
@@ -936,6 +938,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2336-smallest-number-in-infinite-set](https://github.com/Satyam0010/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Satyam0010/DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1007,6 +1010,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2352-equal-row-and-column-pairs](https://github.com/Satyam0010/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam0010/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Satyam0010/DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satyam0010/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Satyam0010/DSA/tree/main/2810-faulty-keyboard/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam0010/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
