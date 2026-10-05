@@ -110,6 +110,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0435-non-overlapping-intervals](https://github.com/Satyam0010/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satyam0010/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/Satyam0010/DSA/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Satyam0010/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -750,6 +751,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0435-non-overlapping-intervals](https://github.com/Satyam0010/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam0010/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satyam0010/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satyam0010/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam0010/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1105,6 +1107,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0409-longest-palindrome](https://github.com/Satyam0010/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Satyam0010/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satyam0010/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0517-super-washing-machines](https://github.com/Satyam0010/DSA/tree/main/0517-super-washing-machines/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satyam0010/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
