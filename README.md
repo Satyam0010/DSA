@@ -424,6 +424,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Satyam0010/DSA/tree/main/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Satyam0010/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/Satyam0010/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Satyam0010/DSA/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1872-stone-game-viii](https://github.com/Satyam0010/DSA/tree/main/1872-stone-game-viii/) | Hard |
@@ -1016,6 +1017,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Satyam0010/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Satyam0010/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/Satyam0010/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam0010/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Satyam0010/DSA/tree/main/1929-concatenation-of-array/) | Easy |
