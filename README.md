@@ -1287,6 +1287,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0739-daily-temperatures](https://github.com/Satyam0010/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Satyam0010/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Satyam0010/DSA/tree/main/0856-score-of-parentheses/) | Medium |
+| [0901-online-stock-span](https://github.com/Satyam0010/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satyam0010/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Satyam0010/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam0010/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -1326,6 +1327,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam0010/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0729-my-calendar-i](https://github.com/Satyam0010/DSA/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Satyam0010/DSA/tree/main/0731-my-calendar-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/Satyam0010/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Satyam0010/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/Satyam0010/DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satyam0010/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -1338,6 +1340,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0496-next-greater-element-i](https://github.com/Satyam0010/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satyam0010/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/Satyam0010/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Satyam0010/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam0010/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Satyam0010/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Satyam0010/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -1611,6 +1614,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Satyam0010/DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0901-online-stock-span](https://github.com/Satyam0010/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Satyam0010/DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/Satyam0010/DSA/tree/main/1472-design-browser-history/) | Medium |
 ## Monotonic Queue
