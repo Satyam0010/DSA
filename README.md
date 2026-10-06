@@ -178,6 +178,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1406-stone-game-iii](https://github.com/Satyam0010/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Satyam0010/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Satyam0010/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Satyam0010/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Satyam0010/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Satyam0010/DSA/tree/main/1472-design-browser-history/) | Medium |
@@ -1013,6 +1014,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0735-asteroid-collision](https://github.com/Satyam0010/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Satyam0010/DSA/tree/main/0844-backspace-string-compare/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Satyam0010/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam0010/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Satyam0010/DSA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -1287,6 +1289,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1096-brace-expansion-ii](https://github.com/Satyam0010/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Satyam0010/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Satyam0010/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Satyam0010/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/Satyam0010/DSA/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satyam0010/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam0010/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
