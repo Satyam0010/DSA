@@ -130,6 +130,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0605-can-place-flowers](https://github.com/Satyam0010/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam0010/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
+| [0636-exclusive-time-of-functions](https://github.com/Satyam0010/DSA/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Satyam0010/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Satyam0010/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0648-replace-words](https://github.com/Satyam0010/DSA/tree/main/0648-replace-words/) | Medium |
@@ -1277,6 +1278,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0402-remove-k-digits](https://github.com/Satyam0010/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Satyam0010/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satyam0010/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0636-exclusive-time-of-functions](https://github.com/Satyam0010/DSA/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Satyam0010/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Satyam0010/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Satyam0010/DSA/tree/main/0739-daily-temperatures/) | Medium |
