@@ -216,6 +216,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2239-find-closest-number-to-zero](https://github.com/Satyam0010/DSA/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satyam0010/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Satyam0010/DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Satyam0010/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Satyam0010/DSA/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -726,6 +727,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam0010/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Satyam0010/DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Satyam0010/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Satyam0010/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Satyam0010/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -779,6 +781,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Satyam0010/DSA/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Satyam0010/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Satyam0010/DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Satyam0010/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/Satyam0010/DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -954,6 +957,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Satyam0010/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satyam0010/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -1145,6 +1149,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam0010/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Satyam0010/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Satyam0010/DSA/tree/main/2126-destroying-asteroids/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Satyam0010/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Satyam0010/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
