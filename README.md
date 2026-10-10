@@ -1774,6 +1774,7 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satyam0010/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0214-shortest-palindrome](https://github.com/Satyam0010/DSA/tree/main/0214-shortest-palindrome/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
