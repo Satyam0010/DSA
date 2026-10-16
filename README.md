@@ -169,6 +169,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1207-unique-number-of-occurrences](https://github.com/Satyam0010/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Satyam0010/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Satyam0010/DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1268-search-suggestions-system](https://github.com/Satyam0010/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyam0010/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Satyam0010/DSA/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Satyam0010/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -729,6 +730,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0878-nth-magical-number](https://github.com/Satyam0010/DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Satyam0010/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Satyam0010/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1268-search-suggestions-system](https://github.com/Satyam0010/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyam0010/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam0010/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam0010/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -778,6 +780,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Satyam0010/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1268-search-suggestions-system](https://github.com/Satyam0010/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satyam0010/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam0010/DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -896,6 +899,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1143-longest-common-subsequence](https://github.com/Satyam0010/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1154-day-of-the-year](https://github.com/Satyam0010/DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Satyam0010/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1268-search-suggestions-system](https://github.com/Satyam0010/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Satyam0010/DSA/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satyam0010/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Satyam0010/DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -965,6 +969,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0451-sort-characters-by-frequency](https://github.com/Satyam0010/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1268-search-suggestions-system](https://github.com/Satyam0010/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Satyam0010/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satyam0010/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -1634,6 +1639,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0212-word-search-ii](https://github.com/Satyam0010/DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0648-replace-words](https://github.com/Satyam0010/DSA/tree/main/0648-replace-words/) | Medium |
+| [1268-search-suggestions-system](https://github.com/Satyam0010/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
