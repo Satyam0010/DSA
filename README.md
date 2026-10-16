@@ -45,6 +45,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Satyam0010/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satyam0010/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Satyam0010/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Satyam0010/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Satyam0010/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Satyam0010/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -599,6 +600,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0064-minimum-path-sum](https://github.com/Satyam0010/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Satyam0010/DSA/tree/main/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Satyam0010/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/Satyam0010/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Satyam0010/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Satyam0010/DSA/tree/main/0115-distinct-subsequences/) | Hard |
@@ -1096,6 +1098,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0073-set-matrix-zeroes](https://github.com/Satyam0010/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Satyam0010/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Satyam0010/DSA/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Satyam0010/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Satyam0010/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Satyam0010/DSA/tree/main/0212-word-search-ii/) | Hard |
@@ -1294,6 +1297,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0032-longest-valid-parentheses](https://github.com/Satyam0010/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Satyam0010/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Satyam0010/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Satyam0010/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam0010/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Satyam0010/DSA/tree/main/0143-reorder-list/) | Medium |
@@ -1364,6 +1368,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Satyam0010/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Satyam0010/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Satyam0010/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/Satyam0010/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Satyam0010/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satyam0010/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
