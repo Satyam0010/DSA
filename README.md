@@ -230,6 +230,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Satyam0010/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Satyam0010/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Satyam0010/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Satyam0010/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam0010/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam0010/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -341,6 +342,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2653-sliding-subarray-beauty](https://github.com/Satyam0010/DSA/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Satyam0010/DSA/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Satyam0010/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Satyam0010/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam0010/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam0010/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Satyam0010/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -1708,6 +1710,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0729-my-calendar-i](https://github.com/Satyam0010/DSA/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Satyam0010/DSA/tree/main/0731-my-calendar-ii/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satyam0010/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Satyam0010/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Satyam0010/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -1832,4 +1835,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Satyam0010/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Satyam0010/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
