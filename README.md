@@ -249,6 +249,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3524-find-x-value-of-array-i](https://github.com/Satyam0010/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Satyam0010/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Satyam0010/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Satyam0010/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Satyam0010/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Satyam0010/DSA/tree/main/3606-coupon-code-validator/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
@@ -352,6 +353,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satyam0010/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Satyam0010/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Satyam0010/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Satyam0010/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Satyam0010/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Satyam0010/DSA/tree/main/3606-coupon-code-validator/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Satyam0010/DSA/tree/main/3668-restore-finishing-order/) | Easy |
@@ -806,6 +808,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3467-transform-array-by-parity](https://github.com/Satyam0010/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satyam0010/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam0010/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Satyam0010/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Satyam0010/DSA/tree/main/3606-coupon-code-validator/) | Easy |
 | [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam0010/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
