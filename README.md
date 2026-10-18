@@ -645,6 +645,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyam0010/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Satyam0010/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Satyam0010/DSA/tree/main/0788-rotated-digits/) | Medium |
+| [0790-domino-and-tromino-tiling](https://github.com/Satyam0010/DSA/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0877-stone-game](https://github.com/Satyam0010/DSA/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Satyam0010/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Satyam0010/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
