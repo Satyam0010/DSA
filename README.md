@@ -1493,6 +1493,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Satyam0010/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam0010/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satyam0010/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -1582,6 +1583,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1096-brace-expansion-ii](https://github.com/Satyam0010/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Satyam0010/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Satyam0010/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satyam0010/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -1649,6 +1651,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0547-number-of-provinces](https://github.com/Satyam0010/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Satyam0010/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Satyam0010/DSA/tree/main/0841-keys-and-rooms/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Satyam0010/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satyam0010/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Satyam0010/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
