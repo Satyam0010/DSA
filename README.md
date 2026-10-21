@@ -955,6 +955,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Satyam0010/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Satyam0010/DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
