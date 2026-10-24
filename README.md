@@ -456,6 +456,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2180-count-integers-with-even-digit-sum](https://github.com/Satyam0010/DSA/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Satyam0010/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Satyam0010/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Satyam0010/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Satyam0010/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Satyam0010/DSA/tree/main/2427-number-of-common-factors/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Satyam0010/DSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -940,6 +941,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/Satyam0010/DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam0010/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Satyam0010/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Satyam0010/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2810-faulty-keyboard](https://github.com/Satyam0010/DSA/tree/main/2810-faulty-keyboard/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Satyam0010/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
