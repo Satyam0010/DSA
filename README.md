@@ -170,6 +170,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1207-unique-number-of-occurrences](https://github.com/Satyam0010/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Satyam0010/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Satyam0010/DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Satyam0010/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Satyam0010/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyam0010/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Satyam0010/DSA/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
@@ -1138,6 +1139,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0994-rotting-oranges](https://github.com/Satyam0010/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Satyam0010/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Satyam0010/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Satyam0010/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -1502,6 +1504,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Satyam0010/DSA/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Satyam0010/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -1596,6 +1599,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1091-shortest-path-in-binary-matrix](https://github.com/Satyam0010/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Satyam0010/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Satyam0010/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Satyam0010/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Satyam0010/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -1654,6 +1658,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0547-number-of-provinces](https://github.com/Satyam0010/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Satyam0010/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Satyam0010/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Satyam0010/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satyam0010/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
