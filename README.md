@@ -1418,6 +1418,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Satyam0010/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Satyam0010/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Satyam0010/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyam0010/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -1470,6 +1471,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0079-word-search](https://github.com/Satyam0010/DSA/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Satyam0010/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Satyam0010/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -1525,6 +1527,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Satyam0010/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Satyam0010/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Satyam0010/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyam0010/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -1622,6 +1625,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Satyam0010/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Satyam0010/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Satyam0010/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
