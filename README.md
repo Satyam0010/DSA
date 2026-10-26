@@ -889,6 +889,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0424-longest-repeating-character-replacement](https://github.com/Satyam0010/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Satyam0010/DSA/tree/main/0443-string-compression/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/Satyam0010/DSA/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam0010/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Satyam0010/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/Satyam0010/DSA/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -1391,6 +1392,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0295-find-median-from-data-stream](https://github.com/Satyam0010/DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam0010/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/Satyam0010/DSA/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0729-my-calendar-i](https://github.com/Satyam0010/DSA/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Satyam0010/DSA/tree/main/0731-my-calendar-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Satyam0010/DSA/tree/main/0901-online-stock-span/) | Medium |
@@ -1455,6 +1457,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0337-house-robber-iii](https://github.com/Satyam0010/DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Satyam0010/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/Satyam0010/DSA/tree/main/0437-path-sum-iii/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/Satyam0010/DSA/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Satyam0010/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Satyam0010/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -1507,6 +1510,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0337-house-robber-iii](https://github.com/Satyam0010/DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Satyam0010/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/Satyam0010/DSA/tree/main/0437-path-sum-iii/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/Satyam0010/DSA/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Satyam0010/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -1569,6 +1573,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0337-house-robber-iii](https://github.com/Satyam0010/DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Satyam0010/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/Satyam0010/DSA/tree/main/0437-path-sum-iii/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/Satyam0010/DSA/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Satyam0010/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Satyam0010/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -1609,6 +1614,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0301-remove-invalid-parentheses](https://github.com/Satyam0010/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Satyam0010/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0449-serialize-and-deserialize-bst](https://github.com/Satyam0010/DSA/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Satyam0010/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0542-01-matrix](https://github.com/Satyam0010/DSA/tree/main/0542-01-matrix/) | Medium |
@@ -1644,6 +1650,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0173-binary-search-tree-iterator](https://github.com/Satyam0010/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Satyam0010/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/Satyam0010/DSA/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Satyam0010/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Satyam0010/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Satyam0010/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
