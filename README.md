@@ -1299,6 +1299,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0092-reverse-linked-list-ii](https://github.com/Satyam0010/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam0010/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Satyam0010/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Satyam0010/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Satyam0010/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Satyam0010/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Satyam0010/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -1435,6 +1436,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0113-path-sum-ii](https://github.com/Satyam0010/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam0010/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Satyam0010/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Satyam0010/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyam0010/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Satyam0010/DSA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -1483,6 +1485,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0113-path-sum-ii](https://github.com/Satyam0010/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam0010/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Satyam0010/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Satyam0010/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyam0010/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Satyam0010/DSA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/Satyam0010/DSA/tree/main/0130-surrounded-regions/) | Medium |
@@ -1545,6 +1548,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0113-path-sum-ii](https://github.com/Satyam0010/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satyam0010/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Satyam0010/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Satyam0010/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyam0010/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Satyam0010/DSA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam0010/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -1589,6 +1593,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Satyam0010/DSA/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Satyam0010/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Satyam0010/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Satyam0010/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Satyam0010/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
