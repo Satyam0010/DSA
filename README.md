@@ -264,6 +264,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyam0010/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam0010/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Satyam0010/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Satyam0010/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satyam0010/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Satyam0010/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Satyam0010/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -535,6 +536,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Satyam0010/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Satyam0010/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Satyam0010/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Satyam0010/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Satyam0010/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -968,6 +970,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Satyam0010/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Satyam0010/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Satyam0010/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Satyam0010/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Satyam0010/DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -988,6 +991,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0918-maximum-sum-circular-subarray](https://github.com/Satyam0010/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Satyam0010/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Satyam0010/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1479,6 +1483,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Satyam0010/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam0010/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Satyam0010/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Satyam0010/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1539,6 +1544,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satyam0010/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Satyam0010/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Satyam0010/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Satyam0010/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1804,6 +1810,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satyam0010/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Satyam0010/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Satyam0010/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Satyam0010/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1932,6 +1939,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Satyam0010/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Satyam0010/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
