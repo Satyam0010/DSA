@@ -193,6 +193,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Satyam0010/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam0010/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam0010/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -758,6 +759,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1268-search-suggestions-system](https://github.com/Satyam0010/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyam0010/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam0010/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam0010/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Satyam0010/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam0010/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -1008,6 +1010,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Satyam0010/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Satyam0010/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satyam0010/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
@@ -1154,6 +1157,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1091-shortest-path-in-binary-matrix](https://github.com/Satyam0010/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Satyam0010/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Satyam0010/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satyam0010/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -1540,6 +1544,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Satyam0010/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam0010/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Satyam0010/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -1644,6 +1649,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1254-number-of-closed-islands](https://github.com/Satyam0010/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Satyam0010/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Satyam0010/DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Satyam0010/DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Satyam0010/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -1707,6 +1713,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Satyam0010/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Satyam0010/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Satyam0010/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satyam0010/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Satyam0010/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -1963,4 +1970,8 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Satyam0010/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
