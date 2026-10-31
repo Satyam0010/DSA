@@ -104,6 +104,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0349-intersection-of-two-arrays](https://github.com/Satyam0010/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Satyam0010/DSA/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam0010/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0399-evaluate-division](https://github.com/Satyam0010/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0403-frog-jump](https://github.com/Satyam0010/DSA/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Satyam0010/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/Satyam0010/DSA/tree/main/0414-third-maximum-number/) | Easy |
@@ -890,6 +891,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam0010/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Satyam0010/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Satyam0010/DSA/tree/main/0394-decode-string/) | Medium |
+| [0399-evaluate-division](https://github.com/Satyam0010/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/Satyam0010/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Satyam0010/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/Satyam0010/DSA/tree/main/0409-longest-palindrome/) | Easy |
@@ -1526,6 +1528,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0257-binary-tree-paths](https://github.com/Satyam0010/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/Satyam0010/DSA/tree/main/0337-house-robber-iii/) | Medium |
+| [0399-evaluate-division](https://github.com/Satyam0010/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Satyam0010/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/Satyam0010/DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Satyam0010/DSA/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
@@ -1633,6 +1636,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyam0010/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Satyam0010/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Satyam0010/DSA/tree/main/0322-coin-change/) | Medium |
+| [0399-evaluate-division](https://github.com/Satyam0010/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Satyam0010/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/Satyam0010/DSA/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Satyam0010/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -1711,6 +1715,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0128-longest-consecutive-sequence](https://github.com/Satyam0010/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Satyam0010/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Satyam0010/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/Satyam0010/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Satyam0010/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Satyam0010/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Satyam0010/DSA/tree/main/1020-number-of-enclaves/) | Medium |
@@ -1725,6 +1730,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Satyam0010/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0399-evaluate-division](https://github.com/Satyam0010/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Satyam0010/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Satyam0010/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Satyam0010/DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -1972,9 +1978,18 @@ I will upload every single problem which i solve on Leetcode over here.
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/Satyam0010/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Satyam0010/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Satyam0010/DSA/tree/main/0399-evaluate-division/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Satyam0010/DSA/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
