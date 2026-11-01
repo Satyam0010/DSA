@@ -1,4 +1,4 @@
-# Solve - totalSum - (min*length) | Beats 100 % in Time and Space | Best and Easy Solution | JAVA
+# Solve -> totalSum - (min*length) | Beats 100 % in Time and Space | Best and Easy Solution | JAVA
 
 # Intuition
 Instead of physically incrementing n - 1 elements by 1 during each move, we can look at the problem from the opposite perspective. Incrementing n - 1 elements by 1 is mathematically equivalent to decrementing exactly 1 element by 1 relative to the rest.
