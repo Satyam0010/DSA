@@ -114,6 +114,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyam0010/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satyam0010/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Satyam0010/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/Satyam0010/DSA/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Satyam0010/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -421,6 +422,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0412-fizz-buzz](https://github.com/Satyam0010/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Satyam0010/DSA/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Satyam0010/DSA/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Satyam0010/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Satyam0010/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0504-base-7](https://github.com/Satyam0010/DSA/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Satyam0010/DSA/tree/main/0507-perfect-number/) | Easy |
