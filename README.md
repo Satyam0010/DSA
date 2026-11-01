@@ -116,6 +116,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satyam0010/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Satyam0010/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyam0010/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Satyam0010/DSA/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Satyam0010/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Satyam0010/DSA/tree/main/0486-predict-the-winner/) | Medium |
@@ -423,6 +424,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0415-add-strings](https://github.com/Satyam0010/DSA/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Satyam0010/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Satyam0010/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyam0010/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Satyam0010/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0504-base-7](https://github.com/Satyam0010/DSA/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Satyam0010/DSA/tree/main/0507-perfect-number/) | Easy |
@@ -804,6 +806,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0451-sort-characters-by-frequency](https://github.com/Satyam0010/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satyam0010/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Satyam0010/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyam0010/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satyam0010/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam0010/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/Satyam0010/DSA/tree/main/0630-course-schedule-iii/) | Hard |
