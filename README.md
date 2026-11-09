@@ -196,6 +196,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [1512-number-of-good-pairs](https://github.com/Satyam0010/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Satyam0010/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/Satyam0010/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Satyam0010/DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam0010/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Satyam0010/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -1019,6 +1020,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0912-sort-an-array](https://github.com/Satyam0010/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Satyam0010/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam0010/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Satyam0010/DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Satyam0010/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Satyam0010/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satyam0010/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -1088,6 +1090,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0832-flipping-an-image](https://github.com/Satyam0010/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Satyam0010/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Satyam0010/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Satyam0010/DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1688-count-of-matches-in-tournament](https://github.com/Satyam0010/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Satyam0010/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Satyam0010/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -1841,6 +1844,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [0220-contains-duplicate-iii](https://github.com/Satyam0010/DSA/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0729-my-calendar-i](https://github.com/Satyam0010/DSA/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Satyam0010/DSA/tree/main/0731-my-calendar-ii/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Satyam0010/DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satyam0010/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satyam0010/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
