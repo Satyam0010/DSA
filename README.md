@@ -266,6 +266,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3649-number-of-perfect-pairs](https://github.com/Satyam0010/DSA/tree/main/3649-number-of-perfect-pairs/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Satyam0010/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Satyam0010/DSA/tree/main/3668-restore-finishing-order/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/Satyam0010/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Satyam0010/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyam0010/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam0010/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -694,6 +695,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Satyam0010/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Satyam0010/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Satyam0010/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Satyam0010/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Satyam0010/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
