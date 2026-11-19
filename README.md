@@ -237,6 +237,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Satyam0010/DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Satyam0010/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Satyam0010/DSA/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/Satyam0010/DSA/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Satyam0010/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -838,6 +839,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Satyam0010/DSA/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam0010/DSA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/Satyam0010/DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Satyam0010/DSA/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Satyam0010/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam0010/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -1238,6 +1240,7 @@ I will upload every single problem which i solve on Leetcode over here.
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Satyam0010/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2498-frog-jump-ii](https://github.com/Satyam0010/DSA/tree/main/2498-frog-jump-ii/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Satyam0010/DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Satyam0010/DSA/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/Satyam0010/DSA/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Satyam0010/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam0010/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
